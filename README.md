@@ -1,4 +1,4 @@
-Claro! Aqui está o README formatado em Markdown para você copiar e colar diretamente no GitHub:
+# CrmEducacionalAPI
 
 ```markdown
 # CrmEducacionalAPI
