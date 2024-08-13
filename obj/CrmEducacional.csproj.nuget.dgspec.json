@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\github\\CrmEducacionalAPI RESTful\\CrmEducacional.csproj": {}
+    "D:\\Dev\\github\\CrmEducacionalAPI_RESTful\\CrmEducacional.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\github\\CrmEducacionalAPI RESTful\\CrmEducacional.csproj": {
+    "D:\\Dev\\github\\CrmEducacionalAPI_RESTful\\CrmEducacional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\github\\CrmEducacionalAPI RESTful\\CrmEducacional.csproj",
+        "projectUniqueName": "D:\\Dev\\github\\CrmEducacionalAPI_RESTful\\CrmEducacional.csproj",
         "projectName": "CrmEducacional",
-        "projectPath": "D:\\Dev\\github\\CrmEducacionalAPI RESTful\\CrmEducacional.csproj",
+        "projectPath": "D:\\Dev\\github\\CrmEducacionalAPI_RESTful\\CrmEducacional.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\github\\CrmEducacionalAPI RESTful\\obj\\",
+        "outputPath": "D:\\Dev\\github\\CrmEducacionalAPI_RESTful\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",

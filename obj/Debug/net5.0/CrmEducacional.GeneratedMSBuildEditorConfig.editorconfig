@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrmEducacional
-build_property.ProjectDir = D:\Dev\github\CrmEducacionalAPI RESTful\
+build_property.ProjectDir = D:\Dev\github\CrmEducacionalAPI_RESTful\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
