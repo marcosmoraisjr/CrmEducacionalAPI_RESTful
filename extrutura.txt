@@ -1,0 +1,51 @@
+Listagem de caminhos de pasta para o volume Deposito 
+O número de série do volume é 5AEF-2B2A
+D:.
++---bin
+¦   +---Debug
+¦       +---net5.0
+¦           +---runtimes
+¦               +---alpine-x64
+¦               ¦   +---native
+¦               +---linux-arm
+¦               ¦   +---native
+¦               +---linux-arm64
+¦               ¦   +---native
+¦               +---linux-armel
+¦               ¦   +---native
+¦               +---linux-mips64
+¦               ¦   +---native
+¦               +---linux-musl-x64
+¦               ¦   +---native
+¦               +---linux-x64
+¦               ¦   +---native
+¦               +---linux-x86
+¦               ¦   +---native
+¦               +---osx-x64
+¦               ¦   +---native
+¦               +---win-arm
+¦               ¦   +---native
+¦               +---win-arm64
+¦               ¦   +---native
+¦               +---win-x64
+¦               ¦   +---native
+¦               +---win-x86
+¦                   +---native
++---Controllers
++---Data
++---imagens
++---Migrations
++---Models
++---obj
+¦   +---Debug
+¦       +---net5.0
+¦           +---Razor
+¦           ¦   +---Views
+¦           ¦       +---Home
+¦           ¦       +---Lead
+¦           ¦       +---Shared
+¦           +---ref
+¦           +---refint
+¦           +---staticwebassets
++---Properties
++---ViewModels

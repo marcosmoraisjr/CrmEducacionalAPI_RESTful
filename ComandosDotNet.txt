@@ -1,0 +1,33 @@
+
+Verificar a versão do .NET instalada:
+dotnet --version
+
+Listar as versões de SDKs do .NET instaladas:
+dotnet --list-sdks
+
+Criar um novo projeto web:
+dotnet new web -o MeuProjeto -f net5.0
+
+Adicionar o pacote Entity Framework Core para SQLite:
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 5.0.17
+
+Adicionar o pacote de design do Entity Framework Core:
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.17
+
+Limpar a solução (remover arquivos de build anteriores):
+dotnet clean CRMEducacionalNET.csproj
+
+Compilar a solução:
+dotnet build CRMEducacionalNET.csproj
+
+Rodar a aplicação com hot reload:
+dotnet watch run --project CRMEducacionalNET.csproj
+
+Adicionar uma nova migração ao banco de dados:
+dotnet ef migrations add CriacaoInicial
+
+Aplicar as migrações ao banco de dados:
+dotnet ef database update
+
+Listar o conteúdo do diretório atual e salvar em um arquivo:
+dir >conteudo.txt
