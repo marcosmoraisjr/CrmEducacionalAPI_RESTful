@@ -1,4 +1,4 @@
-# CrmEducacionalAPI
+# CRM Educacional API RESTful
 
 ```markdown
 # CrmEducacionalAPI
